@@ -1,0 +1,180 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Nov 2025 15:12:26 at https://traze.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://traze.com/ -O1 "C:\Users\lxraa\Videos\Traze" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:14:25	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://traze.com/)
+15:16:33	Warning: 	Moved Permanently for https://traze.com/about-traze/help-center/
+15:16:33	Warning: 	File has moved from https://traze.com/about-traze/help-center/ to https://traze.com/about-traze/help-center/how-to-fund-my-trading-account/
+15:16:40	Warning: 	Moved Permanently for https://traze.com/copy-trading-platform/
+15:16:40	Warning: 	File has moved from https://traze.com/copy-trading-platform/ to https://traze.com/trading-tools/copy-trading-platform/
+15:16:49	Warning: 	Moved Permanently for https://traze.com/contract-specification/
+15:16:49	Warning: 	File has moved from https://traze.com/contract-specification/ to https://traze.com/trading/contract-specification/
+15:16:51	Warning: 	Moved Permanently for https://traze.com/leverage-policy/
+15:16:51	Warning: 	File has moved from https://traze.com/leverage-policy/ to https://traze.com/trading/leverage-policy/
+15:16:53	Warning: 	Moved Permanently for https://traze.com/economic-calendar/
+15:16:53	Warning: 	File has moved from https://traze.com/economic-calendar/ to https://traze.com/trading-tools/economic-calendar/
+15:16:55	Warning: 	Moved Permanently for https://traze.com/contact-us/
+15:16:55	Warning: 	File has moved from https://traze.com/contact-us/ to https://traze.com/about-traze/contact-us/
+15:16:56	Warning: 	Moved Permanently for https://traze.com/help-center/
+15:16:56	Warning: 	File has moved from https://traze.com/help-center/ to https://traze.com/about-traze/help-center/
+15:17:23	Warning: 	Link https://traze.com/other-documents/ not scanned (follow robots meta tag)
+15:18:20	Error: 	"Not Found" (404) at link https://traze.com/mx/comparacion-de-cuentas/cuenta-de-trading-cent/ (from https://traze.com/mx/)
+15:18:23	Error: 	"Not Found" (404) at link https://traze.com/mx/alianzas/ (from https://traze.com/mx/)
+15:18:26	Warning: 	Moved Permanently for https://traze.com/mx/sobre-traze/help-center/
+15:18:26	Warning: 	File has moved from https://traze.com/mx/sobre-traze/help-center/ to https://traze.com/mx/sobre-traze/help-center/como-depositar-fondos-en-mi-cuenta-de-operaciones/
+15:19:29	Warning: 	Moved Permanently for https://traze.com/ar/trading-accounts/cent-trading-account/
+15:19:29	Warning: 	File has moved from https://traze.com/ar/trading-accounts/cent-trading-account/ to https://traze.com/th/?page_id=11032
+15:19:33	Warning: 	Moved Permanently for https://traze.com/ar/copy-trading-platform/
+15:19:33	Warning: 	File has moved from https://traze.com/ar/copy-trading-platform/ to https://traze.com/ar/trading-tools/copy-trading-platform/
+15:19:37	Warning: 	Moved Permanently for https://traze.com/ar/?page_id=4482
+15:19:37	Warning: 	File has moved from https://traze.com/ar/?page_id=4482 to https://traze.com/trading-accounts/cent-trading-account/
+15:19:37	Warning: 	Moved Permanently for https://traze.com/ar/contract-specification/
+15:19:37	Warning: 	File has moved from https://traze.com/ar/contract-specification/ to https://traze.com/ar/trading/contract-specification/
+15:19:39	Warning: 	Moved Permanently for https://traze.com/ar/economic-calendar/
+15:19:39	Warning: 	File has moved from https://traze.com/ar/economic-calendar/ to https://traze.com/ar/trading-tools/economic-calendar/
+15:19:39	Warning: 	Moved Permanently for https://traze.com/ar/contact-us/
+15:19:39	Warning: 	File has moved from https://traze.com/ar/contact-us/ to https://traze.com/ar/about-traze/contact-us/
+15:19:39	Warning: 	Moved Permanently for https://traze.com/ar/help-center/
+15:19:39	Warning: 	File has moved from https://traze.com/ar/help-center/ to https://traze.com/ar/about-traze/help-center/
+15:19:49	Warning: 	Moved Permanently for https://traze.com/ar/aml-policy/
+15:19:49	Warning: 	File has moved from https://traze.com/ar/aml-policy/ to https://traze.com/ar/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%ba%d8%b3%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d9%88%d8%a7%d9%84/
+15:19:51	Warning: 	Moved Permanently for https://traze.com/ar/other-documents/
+15:19:51	Warning: 	File has moved from https://traze.com/ar/other-documents/ to https://traze.com/other-documents/
+15:19:51	Error: 	"Not Found" (404) at link https://traze.com/wp-content/themes/zfx/img/products/down_arrow.svg (from https://traze.com/lib/plugins/zfx-widgets/assets/public/css/vendor.min.css?ver=1.4.5)
+15:19:51	Error: 	"Not Found" (404) at link https://traze.com/wp-content/themes/zfx/img/products/up_arrow.svg (from https://traze.com/lib/plugins/zfx-widgets/assets/public/css/vendor.min.css?ver=1.4.5)
+15:19:51	Error: 	"Not Found" (404) at link https://traze.com/lib/img/select-arrow.svg (from https://traze.com/lib/uploads/zfxcore-global.css?ver=9367)
+15:20:28	Error: 	"Not Found" (404) at link https://traze.com/about-traze/contact-us/%22mailto:cs@traze.com%22%3Ecs@traze.com%3C/a%3E (from https://traze.com/about-traze/contact-us/)
+15:21:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/سياسة-مكافحة-غسيل-الأموال/ (from https://traze.com/aml-policy/)
+15:21:48	Error: 	"Not Found" (404) at link https://traze.com/mx/sobre-traze/contactenos/%22mailto:cs@traze.com%22%3Ecs@traze.com%3C/a%3E (from https://traze.com/mx/sobre-traze/contactenos/)
+15:22:13	Warning: 	Moved Permanently for https://traze.com/ar/about-traze/help-center/
+15:22:13	Warning: 	File has moved from https://traze.com/ar/about-traze/help-center/ to https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/
+15:22:13	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/التقويم-الاقتصادي/ (from https://traze.com/ar/trading-tools/)
+15:22:13	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/منصة-التداول-بالنسخ/ (from https://traze.com/ar/trading-tools/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/ar/about-traze/contact-us/%22mailto:cs@traze.com%22%3Ecs@traze.com%3C/a%3E (from https://traze.com/ar/about-traze/contact-us/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/ (from https://traze.com/ar/about-traze/announcements/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/ (from https://traze.com/ar/about-traze/announcements/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/?page_id=11032 (from https://traze.com/ar/trading-accounts/cent-trading-account/)
+15:22:13	Warning: 	Found for https://traze.com/trading-accounts/cent-trading-account/
+15:22:13	Warning: 	File has moved from https://traze.com/trading-accounts/cent-trading-account/ to https://traze.com/
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11460 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11396 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11401 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11447 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11452 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/vi/?page_id=11388 (from https://traze.com/vi/trading/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading/forex/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading/indices/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading/shares/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading/commodities/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading/cryptocurrency/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Warning: 	Moved Permanently for https://traze.com/th/trading-accounts/
+15:22:13	Warning: 	File has moved from https://traze.com/th/trading-accounts/ to https://traze.com/th/?page_id=10611
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-accounts/cent-trading-account/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-accounts/standard-trading-account/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-accounts/ecn-trading-account/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/contract-specification/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-platform/traze-mt4-for-windows/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-platform/traze-mt4-for-mac/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-platform/traze-mt4-for-mobile/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-platform/traze-mobile-app/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-platform/mam-services/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/economic-calendar/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/copy-trading-platform/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/trading-tools/cfd-expiration-date/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/about-traze/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/contact-us/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Warning: 	Moved Permanently for https://traze.com/th/help-center/
+15:22:13	Warning: 	File has moved from https://traze.com/th/help-center/ to https://traze.com/th/about-traze/help-center/
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/risk-disclosure/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/cookie-policy/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/order-execution-policy/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/privacy-policy/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/website-usage-rules/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/aml-policy/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:13	Error: 	"Not Found" (404) at link https://traze.com/th/terms-and-conditions/ (from https://traze.com/th/products-summary/leverage-policy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/الفوركس/تداول-العملات-الأجنبية-عبر-الإنترنت-د/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/تقييم-واختيار-الوسيط-المناسب/حساب-ecn-دليل-شامل-للميزات،-التكاليف-وال/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/استراتيجيات-الوسطاء-المتقدمة/تداول-stp-نظرة-عامة-على-الوسيط،-ميزات-الت/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/الأدوات-والميزات-التي-يقدمها-الوسطاء/حساب-mt4-إعداد-الحساب،-أنواعه،-والميزات/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/education-continuous-learning/تداول-الفوركس-في-جنوب-أفريقيا-دليل-أسا/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/الأسهم/تسلا-كيفية-الشراء،-سعر-السهم،-التوقعا/ (from https://traze.com/ar/academy/)
+15:22:46	Error: 	"Error when decompressing" (-1) at link https://traze.com/ar/academy/تقييم-واختيار-الوسيط-المناسب/تطبيق-تداول-الفوركس-الميزات-الأساسية/ (from https://traze.com/ar/academy/)
+15:23:38	Error: 	"Not Found" (404) at link https://traze.com/th/?page_id=10611 (from https://traze.com/th/trading-accounts/)
+15:23:38	Warning: 	Moved Permanently for https://traze.com/th/about-traze/help-center/
+15:23:38	Warning: 	File has moved from https://traze.com/th/about-traze/help-center/ to https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/
+15:23:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://traze.com/ar/about-traze/help-center/how-to-install-metatrader-4-in-windows/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://traze.com/ar/about-traze/help-center/how-to-make-a-withdrawal/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://traze.com/ar/about-traze/help-center/what-payment-methods-are-supported/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://traze.com/ar/about-traze/help-center/how-to-reset-my-passwords/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:57	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/ar/about-traze/help-center/how-to-sign-in-from-a-new-device/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:59	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/ar/about-traze/help-center/how-to-secure-my-account/ (from https://traze.com/ar/about-traze/help-center/how-to-fund-my-trading-account/)
+15:23:59	Error: 	"Not Found" (404) at link https://traze.com/lib/themes/zfx/css/single/hc/inner-bg.webp (from https://traze.com/lib/plugins/trazecore/assets/css/traze-hc.min.css?ver=1.3.1)
+15:23:59	Error: 	"Not Found" (404) at link https://traze.com/lib/themes/zfx/css/single/hc/subscription_bg-2.jpg (from https://traze.com/lib/plugins/trazecore/assets/css/traze-hc.min.css?ver=1.3.1)
+15:23:59	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6651 (from https://traze.com/about-traze/help-center/how-to-make-a-withdrawal/)
+15:24:00	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-make-a-withdrawal%2F (from https://traze.com/about-traze/help-center/how-to-make-a-withdrawal/)
+15:24:01	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-make-a-withdrawal%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-make-a-withdrawal/)
+15:24:02	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6650 (from https://traze.com/about-traze/help-center/what-payment-methods-are-supported/)
+15:24:02	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhat-payment-methods-are-supported%2F (from https://traze.com/about-traze/help-center/what-payment-methods-are-supported/)
+15:24:03	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhat-payment-methods-are-supported%2F&format=xml (from https://traze.com/about-traze/help-center/what-payment-methods-are-supported/)
+15:24:03	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6654 (from https://traze.com/about-traze/help-center/when-can-i-trade/)
+15:24:04	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhen-can-i-trade%2F (from https://traze.com/about-traze/help-center/when-can-i-trade/)
+15:24:04	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhen-can-i-trade%2F&format=xml (from https://traze.com/about-traze/help-center/when-can-i-trade/)
+15:24:05	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6653 (from https://traze.com/about-traze/help-center/will-you-physically-deliver-the-assets-i-trade/)
+15:24:05	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwill-you-physically-deliver-the-assets-i-trade%2F (from https://traze.com/about-traze/help-center/will-you-physically-deliver-the-assets-i-trade/)
+15:24:06	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwill-you-physically-deliver-the-assets-i-trade%2F&format=xml (from https://traze.com/about-traze/help-center/will-you-physically-deliver-the-assets-i-trade/)
+15:24:06	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6658 (from https://traze.com/about-traze/help-center/am-i-protected-by-an-investor-compensation-fund/)
+15:24:07	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fam-i-protected-by-an-investor-compensation-fund%2F (from https://traze.com/about-traze/help-center/am-i-protected-by-an-investor-compensation-fund/)
+15:24:07	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fam-i-protected-by-an-investor-compensation-fund%2F&format=xml (from https://traze.com/about-traze/help-center/am-i-protected-by-an-investor-compensation-fund/)
+15:24:08	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6657 (from https://traze.com/about-traze/help-center/where-is-traze-regulated/)
+15:24:09	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhere-is-traze-regulated%2F (from https://traze.com/about-traze/help-center/where-is-traze-regulated/)
+15:24:09	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fwhere-is-traze-regulated%2F&format=xml (from https://traze.com/about-traze/help-center/where-is-traze-regulated/)
+15:24:09	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6656 (from https://traze.com/about-traze/help-center/how-can-i-check-my-trading-history/)
+15:24:10	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-check-my-trading-history%2F (from https://traze.com/about-traze/help-center/how-can-i-check-my-trading-history/)
+15:24:11	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-check-my-trading-history%2F&format=xml (from https://traze.com/about-traze/help-center/how-can-i-check-my-trading-history/)
+15:24:11	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6655 (from https://traze.com/about-traze/help-center/how-does-the-referral-program-work/)
+15:24:12	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-does-the-referral-program-work%2F (from https://traze.com/about-traze/help-center/how-does-the-referral-program-work/)
+15:24:12	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-does-the-referral-program-work%2F&format=xml (from https://traze.com/about-traze/help-center/how-does-the-referral-program-work/)
+15:24:13	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6663 (from https://traze.com/about-traze/help-center/how-can-i-contact-customer-support/)
+15:24:13	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-contact-customer-support%2F (from https://traze.com/about-traze/help-center/how-can-i-contact-customer-support/)
+15:24:14	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-contact-customer-support%2F&format=xml (from https://traze.com/about-traze/help-center/how-can-i-contact-customer-support/)
+15:24:14	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6662 (from https://traze.com/about-traze/help-center/how-to-invest-in-the-us-market/)
+15:24:15	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-invest-in-the-us-market%2F (from https://traze.com/about-traze/help-center/how-to-invest-in-the-us-market/)
+15:24:15	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-invest-in-the-us-market%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-invest-in-the-us-market/)
+15:24:16	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6661 (from https://traze.com/about-traze/help-center/how-to-open-an-account/)
+15:24:16	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-open-an-account%2F (from https://traze.com/about-traze/help-center/how-to-open-an-account/)
+15:24:17	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-open-an-account%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-open-an-account/)
+15:24:18	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6660 (from https://traze.com/about-traze/help-center/how-can-i-learn-how-to-trade/)
+15:24:18	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-learn-how-to-trade%2F (from https://traze.com/about-traze/help-center/how-can-i-learn-how-to-trade/)
+15:24:18	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-can-i-learn-how-to-trade%2F&format=xml (from https://traze.com/about-traze/help-center/how-can-i-learn-how-to-trade/)
+15:24:19	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6659 (from https://traze.com/about-traze/help-center/how-to-install-metatrader-4-in-windows/)
+15:24:20	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-install-metatrader-4-in-windows%2F (from https://traze.com/about-traze/help-center/how-to-install-metatrader-4-in-windows/)
+15:24:20	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-install-metatrader-4-in-windows%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-install-metatrader-4-in-windows/)
+15:24:21	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6666 (from https://traze.com/about-traze/help-center/how-to-reset-my-passwords/)
+15:24:22	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-reset-my-passwords%2F (from https://traze.com/about-traze/help-center/how-to-reset-my-passwords/)
+15:24:22	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-reset-my-passwords%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-reset-my-passwords/)
+15:24:22	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6665 (from https://traze.com/about-traze/help-center/how-to-sign-in-from-a-new-device/)
+15:24:23	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-sign-in-from-a-new-device%2F (from https://traze.com/about-traze/help-center/how-to-sign-in-from-a-new-device/)
+15:24:24	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-sign-in-from-a-new-device%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-sign-in-from-a-new-device/)
+15:24:24	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/help_center/6664 (from https://traze.com/about-traze/help-center/how-to-secure-my-account/)
+15:24:25	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-secure-my-account%2F (from https://traze.com/about-traze/help-center/how-to-secure-my-account/)
+15:24:25	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fabout-traze%2Fhelp-center%2Fhow-to-secure-my-account%2F&format=xml (from https://traze.com/about-traze/help-center/how-to-secure-my-account/)
+15:24:27	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/about-traze/announcements/page/4/ (from https://traze.com/about-traze/announcements/page/3/)
+15:24:27	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/announcement/22885 (from https://traze.com/announcement/trading-sessions-to-be-affected-by-daylight-savings-changes-in-europe-and-north-america/)
+15:24:27	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Ftrading-sessions-to-be-affected-by-daylight-savings-changes-in-europe-and-north-america%2F (from https://traze.com/announcement/trading-sessions-to-be-affected-by-daylight-savings-changes-in-europe-and-north-america/)
+15:24:27	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Ftrading-sessions-to-be-affected-by-daylight-savings-changes-in-europe-and-north-america%2F&format=xml (from https://traze.com/announcement/trading-sessions-to-be-affected-by-daylight-savings-changes-in-europe-and-north-america/)
+15:24:29	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/announcement/22672 (from https://traze.com/announcement/change-all-trading-account-leverage-during-september-2025-us-economic-announcements/)
+15:24:29	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Fchange-all-trading-account-leverage-during-september-2025-us-economic-announcements%2F (from https://traze.com/announcement/change-all-trading-account-leverage-during-september-2025-us-economic-announcements/)
+15:24:29	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Fchange-all-trading-account-leverage-during-september-2025-us-economic-announcements%2F&format=xml (from https://traze.com/announcement/change-all-trading-account-leverage-during-september-2025-us-economic-announcements/)
+15:24:30	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/wp/v2/announcement/22656 (from https://traze.com/announcement/abnormal-quotations-and-executions-on-mt4-and-mt5-server/)
+15:24:31	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Fabnormal-quotations-and-executions-on-mt4-and-mt5-server%2F (from https://traze.com/announcement/abnormal-quotations-and-executions-on-mt4-and-mt5-server/)
+15:24:31	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftraze.com%2Fannouncement%2Fabnormal-quotations-and-executions-on-mt4-and-mt5-server%2F&format=xml (from https://traze.com/announcement/abnormal-quotations-and-executions-on-mt4-and-mt5-server/)
+15:24:31	Warning: 	Retry after error -4 (Connect Error) at link https://traze.com/announcement/traze-system-maintenance-august-25-2024/ (from https://traze.com/announcement/abnormal-quotations-and-executions-on-mt4-and-mt5-server/)
+15:24:32	Error: 	"Not Found" (404) at link https://traze.com/wp-content/themes/zfx/css/single/hc/inner-bg.webp (from https://traze.com/lib/plugins/trazecore/assets/css/traze-academy.min.css?ver=1.3.1)
+15:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://traze.com/wp-json/wp/v2/academy/22710 (from https://traze.com/academy/forex-education-and-resources/forex-trading-sa/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 46 seconds : 1859 links scanned, 1712 files written (302286730 bytes overall) [257763441 bytes received at 312062 bytes/sec], 66787556 bytes transferred using HTTP compression in 1555 files, ratio 25%, 17.0 requests per connection
+(58 errors, 111 warnings, 0 messages)
